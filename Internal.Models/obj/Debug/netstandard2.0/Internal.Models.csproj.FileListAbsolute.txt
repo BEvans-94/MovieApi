@@ -1,0 +1,9 @@
+D:\Source\Repos\MovieSearchTestCode\Internal.Models\bin\Debug\netstandard2.0\Internal.Models.deps.json
+D:\Source\Repos\MovieSearchTestCode\Internal.Models\bin\Debug\netstandard2.0\Internal.Models.dll
+D:\Source\Repos\MovieSearchTestCode\Internal.Models\bin\Debug\netstandard2.0\Internal.Models.pdb
+D:\Source\Repos\MovieSearchTestCode\Internal.Models\obj\Debug\netstandard2.0\Internal.Models.csprojAssemblyReference.cache
+D:\Source\Repos\MovieSearchTestCode\Internal.Models\obj\Debug\netstandard2.0\Internal.Models.csproj.CoreCompileInputs.cache
+D:\Source\Repos\MovieSearchTestCode\Internal.Models\obj\Debug\netstandard2.0\Internal.Models.AssemblyInfoInputs.cache
+D:\Source\Repos\MovieSearchTestCode\Internal.Models\obj\Debug\netstandard2.0\Internal.Models.AssemblyInfo.cs
+D:\Source\Repos\MovieSearchTestCode\Internal.Models\obj\Debug\netstandard2.0\Internal.Models.dll
+D:\Source\Repos\MovieSearchTestCode\Internal.Models\obj\Debug\netstandard2.0\Internal.Models.pdb

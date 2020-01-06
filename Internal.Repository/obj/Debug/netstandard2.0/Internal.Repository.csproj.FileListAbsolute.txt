@@ -1,0 +1,14 @@
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\bin\Debug\netstandard2.0\Internal.Models.dll
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\obj\Debug\netstandard2.0\Internal.Repository.csprojAssemblyReference.cache
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\obj\Debug\netstandard2.0\Internal.Repository.Properties.Resources.resources
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\obj\Debug\netstandard2.0\Internal.Repository.csproj.GenerateResource.cache
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\obj\Debug\netstandard2.0\Internal.Repository.csproj.CoreCompileInputs.cache
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\obj\Debug\netstandard2.0\Internal.Repository.AssemblyInfoInputs.cache
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\obj\Debug\netstandard2.0\Internal.Repository.AssemblyInfo.cs
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\bin\Debug\netstandard2.0\Internal.Repository.deps.json
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\bin\Debug\netstandard2.0\Internal.Repository.dll
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\bin\Debug\netstandard2.0\Internal.Repository.pdb
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\bin\Debug\netstandard2.0\Internal.Models.pdb
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\obj\Debug\netstandard2.0\Internal.Repository.csproj.CopyComplete
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\obj\Debug\netstandard2.0\Internal.Repository.dll
+D:\Source\Repos\MovieSearchTestCode\Internal.Repository\obj\Debug\netstandard2.0\Internal.Repository.pdb
